@@ -15,7 +15,6 @@ Welcome to **The Dice Games Web**! This is a simple web-based dice game where tw
 - Random dice roll generation
 - Display of the winner after each roll
 - Simple and clean user interface
-- 
 ## Demo
 
 ![image](https://github.com/jacobturjeman/The-Dice-Games-Web-/assets/84174179/2054a6d9-31d9-444d-9da7-c7223f48c8d6)
