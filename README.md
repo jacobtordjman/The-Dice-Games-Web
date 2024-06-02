@@ -17,7 +17,8 @@ Welcome to **The Dice Games Web**! This is a simple web-based dice game where tw
 - Simple and clean user interface
 ## Demo
 
-![image](https://github.com/jacobturjeman/The-Dice-Games-Web-/assets/84174179/2054a6d9-31d9-444d-9da7-c7223f48c8d6)
+![Dice](https://github.com/jacobtordjman/The-Dice-Games-Web/assets/84174179/55abed1c-87a4-4054-b98f-3853fd0a84a7)
+
 
 ## Usage
 
